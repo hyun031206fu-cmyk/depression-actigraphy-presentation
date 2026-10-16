@@ -1,0 +1,13 @@
+# Jupyter and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build temporary scripts
+build_notebook.py
+build_and_run_notebook.py
+
+# Local logs and caches
+*.log
+.cache/
